@@ -1,0 +1,13 @@
+DATASET RELEASE REPORT
+======================
+
+Version: canonical_v1
+Formats:
+- CSV
+- Parquet
+- JSONL
+
+Integrity:
+canonical.csv: d95733675be75b2020c61926a5ba8b9478edf16749761296fa71dfbb9f99d50c
+canonical.parquet: bb99c731a87347984c34d74f8f9b5d1e8f04ab50594ba3ce7f4c882bbdd4b264
+canonical.jsonl: ed1debd8fabac691995dc40cb5f4d6ae39a2703fa211fed0093a8b682c6388d6

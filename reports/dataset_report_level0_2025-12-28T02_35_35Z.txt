@@ -1,0 +1,44 @@
+DATASET REPORT — LEVEL 0
+========================
+
+Workspace
+---------
+Project root: /content/drive/MyDrive/audio_analysis
+Reports directory: /content/drive/MyDrive/audio_analysis/reports
+Environment: Google Colab
+Persistence: Google Drive
+
+Dataset Boundary
+----------------
+Source directory: /content/drive/MyDrive/audio
+Mutation policy: read-only
+File type(s): mp4 only
+
+Inventory
+---------
+Total files: 60
+Total size (bytes): 1378801148
+Total size (GB): 1.284
+Largest file: Wednesday at 5-08 PM.m4a (113297436 bytes)
+Smallest file: Friday at 10-02 AM.m4a (103812 bytes)
+
+Known Facts
+-----------
+- Files exist and are readable
+- Files are MP4 containers
+- No decoding performed
+- No semantic labels inferred
+
+Explicit Unknowns
+-----------------
+- Actual audio duration
+- Channel count
+- Sample rate
+- Silence vs speech
+- Noise classification
+
+Nesting Contract
+----------------
+This report establishes Layer 0 (existence + structure).
+Raw files are immutable.
+All future layers must reference this inventory without mutation.

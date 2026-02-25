@@ -1,0 +1,25 @@
+DATASET REPORT — LEVEL 2
+========================
+
+Processing Model
+----------------
+FFmpeg streaming decode
+Chunk duration (sec): 30.0
+Sample rate: 16000
+Resume-safe per-file checkpointing
+
+Signal Duration (Truth)
+-----------------------
+Total signal duration (sec): 219029.01
+Total signal duration (hours): 60.84
+
+Silence vs Sound
+----------------
+Total silence (sec): 12444.85
+Total sound (sec): 206584.16
+Silence ratio (global): 0.057
+
+Nesting Status
+--------------
+Layer 2 established using streamed decoding.
+Crash-safe, resumable, container-agnostic.

@@ -1,0 +1,31 @@
+DATASET REPORT — LEVEL 5
+========================
+
+Scope
+-----
+High-resolution microstructure analysis.
+Fine temporal and spectral granularity.
+Computationally intensive by design.
+
+Processing Parameters
+---------------------
+Sample rate: 22050
+Chunk size (sec): 20.0
+Frame duration (sec): 0.01
+FFT size: 2048
+Mel bands: 64
+
+Data Volume
+-----------
+Total micro-chunks analyzed: 10982
+
+Interpretation Constraints
+--------------------------
+- No speech detection
+- No semantic labeling
+- Metrics describe internal signal behavior only
+
+Nesting Status
+--------------
+Layer 5 established (microstructure).
+Compatible with Layers 0–4.

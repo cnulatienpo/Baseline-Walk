@@ -1,0 +1,30 @@
+DATASET REPORT — LEVEL 7
+========================
+
+Scope
+-----
+Focused rescans of anomaly regions only.
+Ultra-fine temporal and spectral resolution.
+Bounded, targeted computation.
+
+Targets
+-------
+Files rescanned: 21
+Focused windows analyzed: 0
+
+Why These Regions Matter
+------------------------
+- Cross-layer disagreement zones
+- High structural information density
+- Compression stress points
+
+Interpretation Constraints
+--------------------------
+- Rescans deepen structure, not meaning
+- High entropy is not speech
+- Irregularity is not error
+
+Nesting Status
+--------------
+Layer 7 established (targeted anomaly deepening).
+Feeds back into Layers 3–6.

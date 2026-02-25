@@ -1,0 +1,38 @@
+DATASET REPORT — LEVEL 1
+========================
+
+Scope
+-----
+Container metadata only.
+No audio decoding performed.
+All values are container-declared claims.
+
+Inventory Extension
+-------------------
+Files inspected: 60
+Files with duration metadata: 60
+
+Duration Claims (Container-Level)
+--------------------------------
+Total claimed duration (seconds): 219029.01
+Total claimed duration (hours): 60.84
+Min file duration (s): 16.13
+Max file duration (s): 17634.25
+
+Known Facts
+-----------
+- Containers are readable
+- Audio streams exist (implied by m4a)
+- Duration values are declared by container
+
+Explicit Unknowns
+-----------------
+- True signal duration
+- Silence vs sound
+- Speech presence
+- Noise characteristics
+
+Nesting Status
+--------------
+Layer 1 established (container claims).
+All higher layers must reconcile with Layer 0 and Layer 1.

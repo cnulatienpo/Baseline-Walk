@@ -1,0 +1,482 @@
+{
+  "Attention - Monday at 1-50 PM.m4a": {
+    "file": "Attention - Monday at 1-50 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2941.9093,
+    "silence_sec": 21.799999999999997,
+    "sound_sec": 2920.1092999999996,
+    "silence_ratio": 0.007410153671290953
+  },
+  "Attention - Saturday at 2-57 PM.m4a": {
+    "file": "Attention - Saturday at 2-57 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 5934.72,
+    "silence_sec": 229.10000000000025,
+    "sound_sec": 5705.62,
+    "silence_ratio": 0.038603337646931996
+  },
+  "Attention - Saturday at 7-34 PM.m4a": {
+    "file": "Attention - Saturday at 7-34 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 4437.5466,
+    "silence_sec": 337.70000000000033,
+    "sound_sec": 4099.846599999999,
+    "silence_ratio": 0.07610060928712284
+  },
+  "Bus - Friday at 1-36 PM.m4a": {
+    "file": "Bus - Friday at 1-36 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 1691.9893,
+    "silence_sec": 3.25,
+    "sound_sec": 1688.7393,
+    "silence_ratio": 0.0019208159295097198
+  },
+  "Copy of Friday at 11-30 PM.m4a": {
+    "file": "Copy of Friday at 11-30 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 1976.5333,
+    "silence_sec": 155.50000000000009,
+    "sound_sec": 1821.0333,
+    "silence_ratio": 0.07867309900622473
+  },
+  "Copy of Something - Sunday at 5-47 PM.m4a": {
+    "file": "Copy of Something - Sunday at 5-47 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2004.3093,
+    "silence_sec": 8.350000000000001,
+    "sound_sec": 1995.9593,
+    "silence_ratio": 0.004166023677084171
+  },
+  "Copy of Tuesday at 5-51 PM.m4a": {
+    "file": "Copy of Tuesday at 5-51 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 4336.7253,
+    "silence_sec": 0.9500000000000003,
+    "sound_sec": 4335.7753,
+    "silence_ratio": 0.00021905929803762306
+  },
+  "Costillas - Tuesday at 5-41 PM.m4a": {
+    "file": "Costillas - Tuesday at 5-41 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2518.784,
+    "silence_sec": 3.5,
+    "sound_sec": 2515.284,
+    "silence_ratio": 0.0013895594064437442
+  },
+  "Friday at 10-02 AM.m4a": {
+    "file": "Friday at 10-02 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 16.128,
+    "silence_sec": 13.8,
+    "sound_sec": 2.3279999999999994,
+    "silence_ratio": 0.855654761904762
+  },
+  "Friday at 10-03 AM.m4a": {
+    "file": "Friday at 10-03 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 6560.576,
+    "silence_sec": 95.59999999999998,
+    "sound_sec": 6464.976,
+    "silence_ratio": 0.014571891248573292
+  },
+  "Friday at 10-25 AM.m4a": {
+    "file": "Friday at 10-25 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 8324.48,
+    "silence_sec": 286.9000000000001,
+    "sound_sec": 8037.58,
+    "silence_ratio": 0.03446461520719614
+  },
+  "Friday at 2-50 PM.m4a": {
+    "file": "Friday at 2-50 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 22.2293,
+    "silence_sec": 3.1,
+    "sound_sec": 19.129299999999997,
+    "silence_ratio": 0.13945558339668818
+  },
+  "Friday at 4-46 PM.m4a": {
+    "file": "Friday at 4-46 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 3844.928,
+    "silence_sec": 163.35000000000002,
+    "sound_sec": 3681.578,
+    "silence_ratio": 0.042484540672803245
+  },
+  "Friday at 6-45 PM.m4a": {
+    "file": "Friday at 6-45 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 677.888,
+    "silence_sec": 0.35,
+    "sound_sec": 677.538,
+    "silence_ratio": 0.0005163094788519637
+  },
+  "Friday at 7-13 PM.m4a": {
+    "file": "Friday at 7-13 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 1046.528,
+    "silence_sec": 113.8,
+    "sound_sec": 932.7280000000001,
+    "silence_ratio": 0.10874052103718199
+  },
+  "Metro Transit - Thursday at 4-44 PM.m4a": {
+    "file": "Metro Transit - Thursday at 4-44 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 1278.976,
+    "silence_sec": 54.349999999999994,
+    "sound_sec": 1224.6260000000002,
+    "silence_ratio": 0.0424949334467574
+  },
+  "Monday at 1-38 PM.m4a": {
+    "file": "Monday at 1-38 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 1928.32,
+    "silence_sec": 0.65,
+    "sound_sec": 1927.6699999999998,
+    "silence_ratio": 0.0003370809824095586
+  },
+  "Monday at 10-09 AM.m4a": {
+    "file": "Monday at 10-09 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 3175.9,
+    "silence_sec": 77.19999999999999,
+    "sound_sec": 3098.7000000000003,
+    "silence_ratio": 0.024308070153342354
+  },
+  "Monday at 10-24 AM.m4a": {
+    "file": "Monday at 10-24 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 4668.448,
+    "silence_sec": 165.49999999999994,
+    "sound_sec": 4502.948,
+    "silence_ratio": 0.03545075365517618
+  },
+  "Monday at 10-38 AM.m4a": {
+    "file": "Monday at 10-38 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 6626.432,
+    "silence_sec": 232.49999999999997,
+    "sound_sec": 6393.932,
+    "silence_ratio": 0.03508675558732059
+  },
+  "Monday at 10-49 AM.m4a": {
+    "file": "Monday at 10-49 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2116.128,
+    "silence_sec": 11.750000000000002,
+    "sound_sec": 2104.378,
+    "silence_ratio": 0.005552594171997157
+  },
+  "Monday at 11-49 AM.m4a": {
+    "file": "Monday at 11-49 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2074.176,
+    "silence_sec": 370.09999999999997,
+    "sound_sec": 1704.076,
+    "silence_ratio": 0.17843230275540745
+  },
+  "Monday at 12-07 PM.m4a": {
+    "file": "Monday at 12-07 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 3240.288,
+    "silence_sec": 0.25,
+    "sound_sec": 3240.038,
+    "silence_ratio": 7.715363572620705e-05
+  },
+  "Routes - Sunday at 4-01 PM.m4a": {
+    "file": "Routes - Sunday at 4-01 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 1719.168,
+    "silence_sec": 0.6500000000000001,
+    "sound_sec": 1718.5179999999998,
+    "silence_ratio": 0.00037808986672623046
+  },
+  "Saturday at 11-16 AM.m4a": {
+    "file": "Saturday at 11-16 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 704.8,
+    "silence_sec": 0.25,
+    "sound_sec": 704.55,
+    "silence_ratio": 0.00035471055618615214
+  },
+  "Saturday at 5-34 PM.m4a": {
+    "file": "Saturday at 5-34 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 3088.0,
+    "silence_sec": 360.55000000000007,
+    "sound_sec": 2727.45,
+    "silence_ratio": 0.1167584196891192
+  },
+  "Saturday at 6-35 PM.m4a": {
+    "file": "Saturday at 6-35 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 3912.8,
+    "silence_sec": 178.95000000000005,
+    "sound_sec": 3733.8500000000004,
+    "silence_ratio": 0.045734512369658566
+  },
+  "Smoking - Thursday at 4-24 PM.m4a": {
+    "file": "Smoking - Thursday at 4-24 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 7985.664,
+    "silence_sec": 428.9500000000003,
+    "sound_sec": 7556.714,
+    "silence_ratio": 0.05371500729306922
+  },
+  "Smoking - Thursday at 7-59 PM.m4a": {
+    "file": "Smoking - Thursday at 7-59 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 4244.608,
+    "silence_sec": 102.94999999999995,
+    "sound_sec": 4141.658,
+    "silence_ratio": 0.024254300986098112
+  },
+  "Smoking - Wednesday at 2-07 PM.m4a": {
+    "file": "Smoking - Wednesday at 2-07 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 4226.1333,
+    "silence_sec": 1.0000000000000002,
+    "sound_sec": 4225.1333,
+    "silence_ratio": 0.00023662291958467097
+  },
+  "Something - Sunday at 5-47 PM.m4a": {
+    "file": "Something - Sunday at 5-47 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2331.392,
+    "silence_sec": 9.250000000000004,
+    "sound_sec": 2322.142,
+    "silence_ratio": 0.00396758674645877
+  },
+  "Station - Friday at 11-53 AM.m4a": {
+    "file": "Station - Friday at 11-53 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2204.8853,
+    "silence_sec": 0.65,
+    "sound_sec": 2204.2353,
+    "silence_ratio": 0.00029479991544231353
+  },
+  "Station - Monday at 5-52 PM.m4a": {
+    "file": "Station - Monday at 5-52 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2239.232,
+    "silence_sec": 0.9,
+    "sound_sec": 2238.332,
+    "silence_ratio": 0.00040192351663427463
+  },
+  "Station - Wednesday at 7-55 PM.m4a": {
+    "file": "Station - Wednesday at 7-55 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 4421.888,
+    "silence_sec": 223.95,
+    "sound_sec": 4197.938,
+    "silence_ratio": 0.05064578750072367
+  },
+  "Sunday at 1-43 PM.m4a": {
+    "file": "Sunday at 1-43 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 5329.3653,
+    "silence_sec": 122.64999999999992,
+    "sound_sec": 5206.715300000001,
+    "silence_ratio": 0.023013997558020634
+  },
+  "Sunday at 11-16 AM.m4a": {
+    "file": "Sunday at 11-16 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 6847.232,
+    "silence_sec": 37.35,
+    "sound_sec": 6809.882,
+    "silence_ratio": 0.005454758944928403
+  },
+  "Sunday at 4-26 PM.m4a": {
+    "file": "Sunday at 4-26 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2107.9466,
+    "silence_sec": 440.44999999999993,
+    "sound_sec": 1667.4966000000004,
+    "silence_ratio": 0.2089474183074656
+  },
+  "Sunday at 4-48 PM.m4a": {
+    "file": "Sunday at 4-48 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 944.128,
+    "silence_sec": 116.9,
+    "sound_sec": 827.2280000000001,
+    "silence_ratio": 0.12381795688720174
+  },
+  "Sunday at 7-54 PM.m4a": {
+    "file": "Sunday at 7-54 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2878.0373,
+    "silence_sec": 1.0000000000000002,
+    "sound_sec": 2877.0373,
+    "silence_ratio": 0.00034745901312675836
+  },
+  "Sunday at 9-15 AM.m4a": {
+    "file": "Sunday at 9-15 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 1261.696,
+    "silence_sec": 0.7000000000000001,
+    "sound_sec": 1260.9959999999999,
+    "silence_ratio": 0.0005548087653444254
+  },
+  "Thursday at 2-48 PM.m4a": {
+    "file": "Thursday at 2-48 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 1234.4746,
+    "silence_sec": 7.099999999999998,
+    "sound_sec": 1227.3746,
+    "silence_ratio": 0.005751434658922912
+  },
+  "Thursday at 6-35 PM.m4a": {
+    "file": "Thursday at 6-35 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2197.5,
+    "silence_sec": 806.5999999999998,
+    "sound_sec": 1390.9,
+    "silence_ratio": 0.3670534698521046
+  },
+  "Thursday at 8-34 AM.m4a": {
+    "file": "Thursday at 8-34 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 5283.04,
+    "silence_sec": 127.44999999999999,
+    "sound_sec": 5155.59,
+    "silence_ratio": 0.02412436778824313
+  },
+  "Today.m4a": {
+    "file": "Today.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 901.12,
+    "silence_sec": 0.15000000000000002,
+    "sound_sec": 900.97,
+    "silence_ratio": 0.00016645951704545456
+  },
+  "Tuesday at 1-17 PM.m4a": {
+    "file": "Tuesday at 1-17 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 5033.1306,
+    "silence_sec": 59.89999999999992,
+    "sound_sec": 4973.230600000001,
+    "silence_ratio": 0.011901141607571223
+  },
+  "Tuesday at 10-10 AM.m4a": {
+    "file": "Tuesday at 10-10 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2016.736,
+    "silence_sec": 5.2,
+    "sound_sec": 2011.536,
+    "silence_ratio": 0.002578423750059502
+  },
+  "Tuesday at 11-26 AM.m4a": {
+    "file": "Tuesday at 11-26 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2579.072,
+    "silence_sec": 0.44999999999999996,
+    "sound_sec": 2578.6220000000003,
+    "silence_ratio": 0.00017448136383939648
+  },
+  "Tuesday at 11-56 AM.m4a": {
+    "file": "Tuesday at 11-56 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 1734.4,
+    "silence_sec": 47.550000000000004,
+    "sound_sec": 1686.8500000000001,
+    "silence_ratio": 0.027415821033210334
+  },
+  "Tuesday at 12-44 AM.m4a": {
+    "file": "Tuesday at 12-44 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2522.4106,
+    "silence_sec": 0.6,
+    "sound_sec": 2521.8106000000002,
+    "silence_ratio": 0.00023786769687694775
+  },
+  "Tuesday at 2-20 PM.m4a": {
+    "file": "Tuesday at 2-20 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 4163.8,
+    "silence_sec": 0.8500000000000002,
+    "sound_sec": 4162.95,
+    "silence_ratio": 0.00020414044862865656
+  },
+  "Tuesday at 3-07 PM.m4a": {
+    "file": "Tuesday at 3-07 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 3090.592,
+    "silence_sec": 0.2,
+    "sound_sec": 3090.3920000000003,
+    "silence_ratio": 6.471252109628187e-05
+  },
+  "Wait - Tuesday at 8-46 AM.m4a": {
+    "file": "Wait - Tuesday at 8-46 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 5745.92,
+    "silence_sec": 170.55000000000024,
+    "sound_sec": 5575.37,
+    "silence_ratio": 0.029681930830920068
+  },
+  "Wednesday at 10-01 AM.m4a": {
+    "file": "Wednesday at 10-01 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 22.176,
+    "silence_sec": 1.7000000000000002,
+    "sound_sec": 20.476,
+    "silence_ratio": 0.07665945165945168
+  },
+  "Wednesday at 10-02 AM.m4a": {
+    "file": "Wednesday at 10-02 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 4447.8,
+    "silence_sec": 255.20000000000005,
+    "sound_sec": 4192.6,
+    "silence_ratio": 0.05737668060614237
+  },
+  "Wednesday at 10-06 AM.m4a": {
+    "file": "Wednesday at 10-06 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 10388.4,
+    "silence_sec": 280.6000000000001,
+    "sound_sec": 10107.8,
+    "silence_ratio": 0.02701089676947365
+  },
+  "Wednesday at 10-09 AM.m4a": {
+    "file": "Wednesday at 10-09 AM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 6000.992,
+    "silence_sec": 158.75000000000003,
+    "sound_sec": 5842.242,
+    "silence_ratio": 0.02645395961201082
+  },
+  "Wednesday at 5-08 PM.m4a": {
+    "file": "Wednesday at 5-08 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 17634.25,
+    "silence_sec": 3053.3500000000076,
+    "sound_sec": 14580.899999999992,
+    "silence_ratio": 0.17314884386917548
+  },
+  "Wednesday at 5-34 PM.m4a": {
+    "file": "Wednesday at 5-34 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2309.12,
+    "silence_sec": 0.15000000000000002,
+    "sound_sec": 2308.97,
+    "silence_ratio": 6.495981152993349e-05
+  },
+  "Wednesday at 5-38 PM.m4a": {
+    "file": "Wednesday at 5-38 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 10958.208,
+    "silence_sec": 2992.649999999999,
+    "sound_sec": 7965.558000000001,
+    "silence_ratio": 0.2730966595998177
+  },
+  "Wednesday at 8-18 PM.m4a": {
+    "file": "Wednesday at 8-18 PM.m4a",
+    "sample_rate": 16000,
+    "duration_signal_sec": 2874.95,
+    "silence_sec": 99.4,
+    "sound_sec": 2775.5499999999997,
+    "silence_ratio": 0.03457451433937982
+  }
+}

@@ -1,0 +1,16 @@
+DATASET REPORT — LEVEL 10
+=========================
+
+Scope
+-----
+Synthetic hard-case generation from anomaly micro-datasets.
+Purpose: stress-test representation learning.
+
+Synthetic Types
+---------------
+- Jittered (temporal instability)
+- Compressed (dynamic collapse)
+- Spectral smeared (frequency ambiguity)
+- Mixed regime (boundary blending)
+
+Total synthetic artifacts: 0

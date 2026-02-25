@@ -1,0 +1,9 @@
+DATASET REPORT — LEVEL 8
+========================
+
+Scope
+-----
+Anomaly regions promoted to standalone micro-datasets.
+Each dataset contains audio clips and metadata.
+
+narrowband-but-energetic: 0 clips

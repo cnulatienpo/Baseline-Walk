@@ -1,0 +1,25 @@
+CANONICAL DATASET v1.0
+======================
+
+Unit of Observation
+-------------------
+Fixed-duration acoustic chunks (~30s)
+
+Rows
+----
+7330 chunks
+
+Joined Layers
+-------------
+- Layer 2: signal truth (file-level)
+- Layer 3: acoustic regimes (chunk-level)
+- Layer 4: temporal volatility (file-level)
+
+Formats
+-------
+- CSV
+- Parquet
+
+Reproducibility
+---------------
+Derived entirely from immutable lower layers.

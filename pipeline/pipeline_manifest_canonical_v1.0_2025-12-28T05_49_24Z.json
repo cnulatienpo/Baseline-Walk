@@ -1,0 +1,108 @@
+{
+  "dataset_version": "canonical_v1.0",
+  "created_at": "2025-12-28T05:49:24Z",
+  "philosophy": {
+    "design": "nested learning",
+    "principle": "defer semantics, preserve structure",
+    "unit_of_observation": "fixed-duration acoustic chunk"
+  },
+  "stages": [
+    {
+      "stage": "Layer 0",
+      "name": "Raw Audio Capture",
+      "input": "audio/*.m4a",
+      "output": "immutable source audio",
+      "cell": "manual / external"
+    },
+    {
+      "stage": "Layer 1",
+      "name": "Container Introspection",
+      "input": "audio/*.m4a",
+      "output": "container metadata",
+      "cell": "Cell 2"
+    },
+    {
+      "stage": "Layer 2",
+      "name": "Signal Truth",
+      "input": "audio/*.m4a",
+      "output": "signal_metrics_level2_*.json",
+      "cell": "Cell 3"
+    },
+    {
+      "stage": "Layer 3",
+      "name": "Acoustic Regimes",
+      "input": "signal truth",
+      "output": "acoustic_regimes_level3_*.json",
+      "cell": "Cell 4"
+    },
+    {
+      "stage": "Layer 4",
+      "name": "Temporal Structure",
+      "input": "acoustic regimes",
+      "output": "temporal_structure_level4_*.json",
+      "cell": "Cell 5"
+    },
+    {
+      "stage": "Layer 5",
+      "name": "Microstructure Scan",
+      "input": "raw audio (targeted)",
+      "output": "microstructure_level5_*.json",
+      "cell": "Cell 6"
+    },
+    {
+      "stage": "Layer 6",
+      "name": "Cross-Layer Audit",
+      "input": "layers 2\u20135",
+      "output": "cross_layer_audit_level6_*.json",
+      "cell": "Cell 7"
+    },
+    {
+      "stage": "Layer 7",
+      "name": "Focused Rescans",
+      "input": "anomaly audit",
+      "output": "focused_rescans_level7_*.json",
+      "cell": "Cell 8"
+    },
+    {
+      "stage": "Layer 8",
+      "name": "Anomaly Micro-Datasets",
+      "input": "focused rescans",
+      "output": "micro_datasets/*",
+      "cell": "Cell 9"
+    },
+    {
+      "stage": "Layer 9",
+      "name": "Visual Diagnostics",
+      "input": "regimes + anomalies",
+      "output": "visuals/*.png",
+      "cell": "Cell 10"
+    },
+    {
+      "stage": "Layer 10",
+      "name": "Synthetic Hard Cases",
+      "input": "micro-datasets",
+      "output": "synthetic/*",
+      "cell": "Cell 11"
+    },
+    {
+      "stage": "Dataset Assembly",
+      "name": "Canonical Dataset v1",
+      "input": "layers 2\u20134",
+      "output": "canonical_dataset_v1.*",
+      "cell": "Cell 12"
+    },
+    {
+      "stage": "Dataset Release",
+      "name": "Export & Documentation",
+      "input": "canonical dataset",
+      "output": "dataset_release/canonical_v1",
+      "cell": "Cells 13\u201314"
+    }
+  ],
+  "rebuild_rules": {
+    "raw_audio_immutable": true,
+    "lower_layers_must_exist": true,
+    "higher_layers_may_be_regenerated": true,
+    "version_bump_required_if_parameters_change": true
+  }
+}

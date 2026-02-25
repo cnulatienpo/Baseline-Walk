@@ -1,0 +1,30 @@
+DATASET REPORT — LEVEL 6
+========================
+
+Scope
+-----
+Cross-layer consistency audit.
+Examines agreement and friction between layers.
+No ground truth assumptions.
+
+Summary Counts
+--------------
+spectral_energy_conflicts: 21
+quiet_stable_agreements: 1
+
+What This Reveals
+-----------------
+- Where compression preserves structure
+- Where layers disagree
+- Which files behave unusually across scales
+
+Interpretation Constraints
+--------------------------
+- Anomalies are not errors
+- Agreements are not correctness
+- This layer diagnoses structure, not meaning
+
+Nesting Status
+--------------
+Layer 6 established (cross-layer audit).
+Provides pressure feedback to Layers 2–5.

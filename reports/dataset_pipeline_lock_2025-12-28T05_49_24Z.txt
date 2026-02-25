@@ -1,0 +1,7 @@
+DATASET PIPELINE LOCK
+=====================
+
+Dataset version: canonical_v1.0
+Pipeline finalized and documented.
+All stages explicitly defined.
+Future rebuilds must follow manifest.

@@ -1,0 +1,861 @@
+{
+  "processed_files": [
+    "Attention - Monday at 1-50 PM.m4a",
+    "Attention - Saturday at 2-57 PM.m4a",
+    "Attention - Saturday at 7-34 PM.m4a",
+    "Bus - Friday at 1-36 PM.m4a",
+    "Copy of Friday at 11-30 PM.m4a",
+    "Copy of Something - Sunday at 5-47 PM.m4a",
+    "Copy of Tuesday at 5-51 PM.m4a",
+    "Costillas - Tuesday at 5-41 PM.m4a",
+    "Friday at 10-02 AM.m4a",
+    "Friday at 10-03 AM.m4a",
+    "Friday at 10-25 AM.m4a",
+    "Friday at 2-50 PM.m4a",
+    "Friday at 4-46 PM.m4a",
+    "Friday at 6-45 PM.m4a",
+    "Friday at 7-13 PM.m4a",
+    "Metro Transit - Thursday at 4-44 PM.m4a",
+    "Monday at 1-38 PM.m4a",
+    "Monday at 10-09 AM.m4a",
+    "Monday at 10-24 AM.m4a",
+    "Monday at 10-38 AM.m4a",
+    "Monday at 10-49 AM.m4a",
+    "Monday at 11-49 AM.m4a",
+    "Monday at 12-07 PM.m4a",
+    "Routes - Sunday at 4-01 PM.m4a",
+    "Saturday at 11-16 AM.m4a",
+    "Saturday at 5-34 PM.m4a",
+    "Saturday at 6-35 PM.m4a",
+    "Smoking - Thursday at 4-24 PM.m4a",
+    "Smoking - Thursday at 7-59 PM.m4a",
+    "Smoking - Wednesday at 2-07 PM.m4a",
+    "Something - Sunday at 5-47 PM.m4a",
+    "Station - Friday at 11-53 AM.m4a",
+    "Station - Monday at 5-52 PM.m4a",
+    "Station - Wednesday at 7-55 PM.m4a",
+    "Sunday at 1-43 PM.m4a",
+    "Sunday at 11-16 AM.m4a",
+    "Sunday at 4-26 PM.m4a",
+    "Sunday at 4-48 PM.m4a",
+    "Sunday at 7-54 PM.m4a",
+    "Sunday at 9-15 AM.m4a",
+    "Thursday at 2-48 PM.m4a",
+    "Thursday at 6-35 PM.m4a",
+    "Thursday at 8-34 AM.m4a",
+    "Today.m4a",
+    "Tuesday at 1-17 PM.m4a",
+    "Tuesday at 10-10 AM.m4a",
+    "Tuesday at 11-26 AM.m4a",
+    "Tuesday at 11-56 AM.m4a",
+    "Tuesday at 12-44 AM.m4a",
+    "Tuesday at 2-20 PM.m4a",
+    "Tuesday at 3-07 PM.m4a",
+    "Wait - Tuesday at 8-46 AM.m4a",
+    "Wednesday at 10-01 AM.m4a",
+    "Wednesday at 10-02 AM.m4a",
+    "Wednesday at 10-06 AM.m4a",
+    "Wednesday at 10-09 AM.m4a",
+    "Wednesday at 5-08 PM.m4a",
+    "Wednesday at 5-34 PM.m4a",
+    "Wednesday at 5-38 PM.m4a",
+    "Wednesday at 8-18 PM.m4a"
+  ],
+  "transitions": {
+    "((0, 0), (0, 0))": 7203,
+    "((0, 0), (0, 1))": 16,
+    "((0, 1), (0, 0))": 16,
+    "((0, 1), (0, 1))": 35
+  },
+  "persistence": [
+    {
+      "file": "Attention - Monday at 1-50 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 99
+    },
+    {
+      "file": "Attention - Saturday at 2-57 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 198
+    },
+    {
+      "file": "Attention - Saturday at 7-34 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 148
+    },
+    {
+      "file": "Bus - Friday at 1-36 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 57
+    },
+    {
+      "file": "Copy of Friday at 11-30 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 66
+    },
+    {
+      "file": "Copy of Something - Sunday at 5-47 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 67
+    },
+    {
+      "file": "Copy of Tuesday at 5-51 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 145
+    },
+    {
+      "file": "Costillas - Tuesday at 5-41 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 84
+    },
+    {
+      "file": "Friday at 10-03 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 219
+    },
+    {
+      "file": "Friday at 10-25 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 278
+    },
+    {
+      "file": "Friday at 4-46 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 129
+    },
+    {
+      "file": "Friday at 6-45 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 23
+    },
+    {
+      "file": "Friday at 7-13 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 35
+    },
+    {
+      "file": "Metro Transit - Thursday at 4-44 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 43
+    },
+    {
+      "file": "Monday at 1-38 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 65
+    },
+    {
+      "file": "Monday at 10-09 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 106
+    },
+    {
+      "file": "Monday at 10-24 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 156
+    },
+    {
+      "file": "Monday at 10-38 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 221
+    },
+    {
+      "file": "Monday at 10-49 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 71
+    },
+    {
+      "file": "Monday at 11-49 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 70
+    },
+    {
+      "file": "Monday at 12-07 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 109
+    },
+    {
+      "file": "Routes - Sunday at 4-01 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 58
+    },
+    {
+      "file": "Saturday at 11-16 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 24
+    },
+    {
+      "file": "Saturday at 5-34 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 103
+    },
+    {
+      "file": "Saturday at 6-35 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 131
+    },
+    {
+      "file": "Smoking - Thursday at 4-24 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 267
+    },
+    {
+      "file": "Smoking - Thursday at 7-59 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 142
+    },
+    {
+      "file": "Smoking - Wednesday at 2-07 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 141
+    },
+    {
+      "file": "Something - Sunday at 5-47 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 78
+    },
+    {
+      "file": "Station - Friday at 11-53 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 74
+    },
+    {
+      "file": "Station - Monday at 5-52 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 75
+    },
+    {
+      "file": "Station - Wednesday at 7-55 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 148
+    },
+    {
+      "file": "Sunday at 1-43 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 178
+    },
+    {
+      "file": "Sunday at 11-16 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 229
+    },
+    {
+      "file": "Sunday at 4-26 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 71
+    },
+    {
+      "file": "Sunday at 4-48 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 32
+    },
+    {
+      "file": "Sunday at 7-54 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 96
+    },
+    {
+      "file": "Sunday at 9-15 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 43
+    },
+    {
+      "file": "Thursday at 2-48 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 42
+    },
+    {
+      "file": "Thursday at 6-35 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 74
+    },
+    {
+      "file": "Thursday at 8-34 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 177
+    },
+    {
+      "file": "Today.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 31
+    },
+    {
+      "file": "Tuesday at 1-17 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 168
+    },
+    {
+      "file": "Tuesday at 10-10 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 68
+    },
+    {
+      "file": "Tuesday at 11-26 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 86
+    },
+    {
+      "file": "Tuesday at 11-56 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 58
+    },
+    {
+      "file": "Tuesday at 12-44 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 85
+    },
+    {
+      "file": "Tuesday at 2-20 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 139
+    },
+    {
+      "file": "Tuesday at 3-07 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 104
+    },
+    {
+      "file": "Wait - Tuesday at 8-46 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 192
+    },
+    {
+      "file": "Wednesday at 10-02 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 149
+    },
+    {
+      "file": "Wednesday at 10-06 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 347
+    },
+    {
+      "file": "Wednesday at 10-09 AM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 201
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 248
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 1
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 1
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 2
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 11
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 4
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 2
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 3
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 2
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 4
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 2
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 5
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 8
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 5
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 4
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 4
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 4
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 5
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 7
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 4
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 45
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 5
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 2
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 3
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 12
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 1
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 2
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 2
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 2
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 1
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 82
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 1)",
+      "duration_chunks": 2
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 103
+    },
+    {
+      "file": "Wednesday at 5-34 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 77
+    },
+    {
+      "file": "Wednesday at 5-38 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 366
+    },
+    {
+      "file": "Wednesday at 8-18 PM.m4a",
+      "regime": "(0, 0)",
+      "duration_chunks": 96
+    }
+  ],
+  "volatility": [
+    {
+      "file": "Attention - Monday at 1-50 PM.m4a",
+      "chunks": 99,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Attention - Saturday at 2-57 PM.m4a",
+      "chunks": 198,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Attention - Saturday at 7-34 PM.m4a",
+      "chunks": 148,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Bus - Friday at 1-36 PM.m4a",
+      "chunks": 57,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Copy of Friday at 11-30 PM.m4a",
+      "chunks": 66,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Copy of Something - Sunday at 5-47 PM.m4a",
+      "chunks": 67,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Copy of Tuesday at 5-51 PM.m4a",
+      "chunks": 145,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Costillas - Tuesday at 5-41 PM.m4a",
+      "chunks": 84,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Friday at 10-03 AM.m4a",
+      "chunks": 219,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Friday at 10-25 AM.m4a",
+      "chunks": 278,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Friday at 4-46 PM.m4a",
+      "chunks": 129,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Friday at 6-45 PM.m4a",
+      "chunks": 23,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Friday at 7-13 PM.m4a",
+      "chunks": 35,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Metro Transit - Thursday at 4-44 PM.m4a",
+      "chunks": 43,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Monday at 1-38 PM.m4a",
+      "chunks": 65,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Monday at 10-09 AM.m4a",
+      "chunks": 106,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Monday at 10-24 AM.m4a",
+      "chunks": 156,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Monday at 10-38 AM.m4a",
+      "chunks": 221,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Monday at 10-49 AM.m4a",
+      "chunks": 71,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Monday at 11-49 AM.m4a",
+      "chunks": 70,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Monday at 12-07 PM.m4a",
+      "chunks": 109,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Routes - Sunday at 4-01 PM.m4a",
+      "chunks": 58,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Saturday at 11-16 AM.m4a",
+      "chunks": 24,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Saturday at 5-34 PM.m4a",
+      "chunks": 103,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Saturday at 6-35 PM.m4a",
+      "chunks": 131,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Smoking - Thursday at 4-24 PM.m4a",
+      "chunks": 267,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Smoking - Thursday at 7-59 PM.m4a",
+      "chunks": 142,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Smoking - Wednesday at 2-07 PM.m4a",
+      "chunks": 141,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Something - Sunday at 5-47 PM.m4a",
+      "chunks": 78,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Station - Friday at 11-53 AM.m4a",
+      "chunks": 74,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Station - Monday at 5-52 PM.m4a",
+      "chunks": 75,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Station - Wednesday at 7-55 PM.m4a",
+      "chunks": 148,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Sunday at 1-43 PM.m4a",
+      "chunks": 178,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Sunday at 11-16 AM.m4a",
+      "chunks": 229,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Sunday at 4-26 PM.m4a",
+      "chunks": 71,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Sunday at 4-48 PM.m4a",
+      "chunks": 32,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Sunday at 7-54 PM.m4a",
+      "chunks": 96,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Sunday at 9-15 AM.m4a",
+      "chunks": 43,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Thursday at 2-48 PM.m4a",
+      "chunks": 42,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Thursday at 6-35 PM.m4a",
+      "chunks": 74,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Thursday at 8-34 AM.m4a",
+      "chunks": 177,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Today.m4a",
+      "chunks": 31,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Tuesday at 1-17 PM.m4a",
+      "chunks": 168,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Tuesday at 10-10 AM.m4a",
+      "chunks": 68,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Tuesday at 11-26 AM.m4a",
+      "chunks": 86,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Tuesday at 11-56 AM.m4a",
+      "chunks": 58,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Tuesday at 12-44 AM.m4a",
+      "chunks": 85,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Tuesday at 2-20 PM.m4a",
+      "chunks": 139,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Tuesday at 3-07 PM.m4a",
+      "chunks": 104,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Wait - Tuesday at 8-46 AM.m4a",
+      "chunks": 192,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Wednesday at 10-02 AM.m4a",
+      "chunks": 149,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Wednesday at 10-06 AM.m4a",
+      "chunks": 347,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Wednesday at 10-09 AM.m4a",
+      "chunks": 201,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Wednesday at 5-08 PM.m4a",
+      "chunks": 588,
+      "flips": 32,
+      "flip_rate": 0.05442176870748299
+    },
+    {
+      "file": "Wednesday at 5-34 PM.m4a",
+      "chunks": 77,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Wednesday at 5-38 PM.m4a",
+      "chunks": 366,
+      "flips": 0,
+      "flip_rate": 0.0
+    },
+    {
+      "file": "Wednesday at 8-18 PM.m4a",
+      "chunks": 96,
+      "flips": 0,
+      "flip_rate": 0.0
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+DATASET REPORT — LEVEL 4
+========================
+
+Scope
+-----
+Temporal structure over acoustic regimes.
+Transitions, persistence, volatility.
+No semantic interpretation.
+
+Dataset Scale
+-------------
+Files analyzed: 60
+Total regime chunks: 7330
+
+Transition Structure
+--------------------
+(0, 0) -> (0, 0): 7203
+(0, 1) -> (0, 1): 35
+(0, 0) -> (0, 1): 16
+(0, 1) -> (0, 0): 16
+
+Persistence
+-----------
+Mean run length (chunks): 82.33
+Median run length (chunks): 68.00
+Max run length (chunks): 366
+
+Volatility
+----------
+Mean flip rate: 0.001
+Median flip rate: 0.000
+Max flip rate: 0.054
+
+Interpretation Constraints
+--------------------------
+- Persistence does not imply meaning
+- Volatility does not imply activity
+- Transitions describe structure only
+
+Nesting Status
+--------------
+Layer 4 established (temporal structure).
+Compatible with Layers 0–3.

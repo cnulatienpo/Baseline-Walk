@@ -1,0 +1,67 @@
+[
+  {
+    "name": "file",
+    "dtype": "object",
+    "nullable": false
+  },
+  {
+    "name": "chunk_index",
+    "dtype": "int64",
+    "nullable": false
+  },
+  {
+    "name": "t_start_sec",
+    "dtype": "float64",
+    "nullable": false
+  },
+  {
+    "name": "t_end_sec",
+    "dtype": "float64",
+    "nullable": false
+  },
+  {
+    "name": "bursty",
+    "dtype": "bool",
+    "nullable": false
+  },
+  {
+    "name": "wideband",
+    "dtype": "bool",
+    "nullable": false
+  },
+  {
+    "name": "rms_variance",
+    "dtype": "float64",
+    "nullable": false
+  },
+  {
+    "name": "spectral_flatness",
+    "dtype": "float64",
+    "nullable": false
+  },
+  {
+    "name": "spectral_bandwidth",
+    "dtype": "float64",
+    "nullable": false
+  },
+  {
+    "name": "spectral_centroid",
+    "dtype": "float64",
+    "nullable": false
+  },
+  {
+    "name": "file_duration_sec",
+    "dtype": "float64",
+    "nullable": false
+  },
+  {
+    "name": "file_silence_ratio",
+    "dtype": "float64",
+    "nullable": false
+  },
+  {
+    "name": "file_volatility",
+    "dtype": "float64",
+    "nullable": true
+  }
+]

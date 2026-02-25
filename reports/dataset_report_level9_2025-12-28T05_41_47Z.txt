@@ -1,0 +1,26 @@
+DATASET REPORT — LEVEL 9
+========================
+
+Scope
+-----
+Timeline visualization of acoustic regimes.
+Anomaly windows overlaid.
+Purpose: reveal compression stress and disagreement.
+
+How to Read the Plots
+--------------------
+- Bursty = rapid energy change
+- Wideband = spectrally flat
+- Red bands = anomaly rescans
+
+What to Look For
+----------------
+- Long stable bands → compressible structure
+- Rapid oscillation → volatile regions
+- Red overlays inside stable zones → hidden complexity
+- Red overlays at boundaries → transition stress
+
+Nesting Status
+--------------
+Layer 9 established (visual diagnostics).
+Supports interpretation of Layers 3–7.

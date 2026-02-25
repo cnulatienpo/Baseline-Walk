@@ -1,0 +1,6 @@
+Micro-Dataset: narrowband-but-energetic
+========================================
+
+Total clips: 0
+Source: Focused anomaly rescans
+Purpose: High-information disagreement regions

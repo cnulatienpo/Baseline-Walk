@@ -1,0 +1,140 @@
+{
+  "summary": {
+    "spectral_energy_conflicts": 21,
+    "quiet_stable_agreements": 1
+  },
+  "anomalies": [
+    {
+      "file": "Attention - Monday at 1-50 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.0029988294096829184
+    },
+    {
+      "file": "Attention - Saturday at 2-57 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.002863556846124855
+    },
+    {
+      "file": "Attention - Saturday at 7-34 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.002522064618567235
+    },
+    {
+      "file": "Bus - Friday at 1-36 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.0033128184288644287
+    },
+    {
+      "file": "Copy of Something - Sunday at 5-47 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.003191365113214416
+    },
+    {
+      "file": "Costillas - Tuesday at 5-41 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.007375081456562579
+    },
+    {
+      "file": "Monday at 1-38 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.0026524322770221506
+    },
+    {
+      "file": "Monday at 11-49 AM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.0033237314231513437
+    },
+    {
+      "file": "Routes - Sunday at 4-01 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.01146017718108555
+    },
+    {
+      "file": "Saturday at 11-16 AM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.0087367300083214
+    },
+    {
+      "file": "Smoking - Thursday at 4-24 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.002551771311797779
+    },
+    {
+      "file": "Smoking - Wednesday at 2-07 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.006476589994922248
+    },
+    {
+      "file": "Something - Sunday at 5-47 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.002767863423705849
+    },
+    {
+      "file": "Station - Friday at 11-53 AM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.008477257638078954
+    },
+    {
+      "file": "Station - Monday at 5-52 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.006947772948218959
+    },
+    {
+      "file": "Station - Wednesday at 7-55 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.003674996730376026
+    },
+    {
+      "file": "Thursday at 2-48 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.011343137445846292
+    },
+    {
+      "file": "Today.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.00479880003884951
+    },
+    {
+      "file": "Tuesday at 11-26 AM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.007700688920282513
+    },
+    {
+      "file": "Tuesday at 2-20 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.01015975127448442
+    },
+    {
+      "file": "Tuesday at 3-07 PM.m4a",
+      "type": "narrowband-but-energetic",
+      "wideband_ratio": 0.0,
+      "micro_rms_var": 0.003076844795929989
+    }
+  ],
+  "agreements": [
+    {
+      "file": "Friday at 10-02 AM.m4a",
+      "profile": "globally quiet and stable"
+    }
+  ]
+}
