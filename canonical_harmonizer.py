@@ -29,10 +29,11 @@ if "audio_path" not in df.columns:
     df["audio_path"] = df["file_name"].apply(lambda x: f"audio/{x}")
 
 # Reorder columns if desired
-preferred_order = [
+preferred_order_base = [
     "file_name", "audio_path", "segment_index", "start_s", "end_s", "duration_s",
     "regime_label", "confidence"
-] + [col for col in df.columns if col not in preferred_order]
+]
+preferred_order = preferred_order_base + [col for col in df.columns if col not in preferred_order_base]
 df = df[preferred_order]
 
 # Save the harmonized dataset
